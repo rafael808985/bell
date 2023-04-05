@@ -1,0 +1,28 @@
+.bell{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 25px;
+    background-color: blueviolet;
+    border: 10px inset black;
+}
+.bell2{
+   font-size: 25px;
+   background-color: blueviolet;
+   color: black;
+   border: 10px inset white;
+}
+
+.quifasiquitaucurintia{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    font-size: 25px;
+    background-color: blueviolet;
+    border: 10px inset black;
+}
+
+.h2{
+    font-size: 30px;
+    text-decoration: underline blueviolet;
+}
